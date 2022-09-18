@@ -1,4 +1,4 @@
 belajar git
 belajar github
 belajar membuat web
-membuat aplikasi
+membuat website baru
