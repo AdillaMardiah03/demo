@@ -1,1 +1,1 @@
-Repository untuk belajar mengginakan github
+Repository untuk belajar menggunakan github
